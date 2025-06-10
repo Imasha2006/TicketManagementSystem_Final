@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\user\\onedrive\\desktop\\winformsapp3 - copy - copy - copy (3) - copy - copy\\winformsapp3\\controller\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\controller\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\user\\onedrive\\desktop\\winformsapp3 - copy - copy - copy (3) - copy - copy\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\user\\onedrive\\desktop\\winformsapp3 - copy - copy - copy (3) - copy - copy\\winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\winformsapp3\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\user\\onedrive\\desktop\\winformsapp3 - copy - copy - copy (3) - copy - copy\\winformsapp3\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\user\\onedrive\\desktop\\winformsapp3 - copy - copy - copy (3) - copy - copy\\winformsapp3\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\models\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|c:\\users\\user\\onedrive\\desktop\\winformsapp3 - copy - copy - copy (3) - copy - copy\\winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940EC4D7-6901-4B7A-BD0D-9B8CBCF3B413}|WinFormsApp3\\WinFormsApp3.csproj|solutionrelative:winformsapp3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Program.cs",
+              "RelativeToolTip": "WinFormsApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:18:15.256Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Controller\\TicketController.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Controller\\TicketController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Controller\\TicketController.cs",
+              "RelativeToolTip": "WinFormsApp3\\Controller\\TicketController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAuwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:19:49.182Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Models\\Tickets.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Models\\Tickets.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Models\\Tickets.cs",
+              "RelativeToolTip": "WinFormsApp3\\Models\\Tickets.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:03:21.368Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:13:45.038Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:12:37.958Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form2.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T08:19:28.025Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form2.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T08:45:43.118Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form4.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form4.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form4.cs",
+              "RelativeToolTip": "WinFormsApp3\\Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:22:21.508Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form4.cs",
+              "RelativeDocumentMoniker": "WinFormsApp3\\Form4.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\WinFormsApp3 - Copy - Copy - Copy (3) - Copy - Copy\\WinFormsApp3\\Form4.cs [Design]",
+              "RelativeToolTip": "WinFormsApp3\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:03:51.303Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
