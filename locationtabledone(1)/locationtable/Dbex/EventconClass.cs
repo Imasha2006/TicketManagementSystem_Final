@@ -14,7 +14,7 @@ namespace Dbex
 {
     internal class EventconClass
     {
-        static string connectionString = "server=localhost;uid=root;pwd=;database=test";
+        static string connectionString = "server=localhost;uid=root;pwd=;database=ticketdb";
         static MySqlConnection conn = new MySqlConnection(connectionString);
 
         public static string AddEvent(string id ,string organizerid,string eventName, string eventDescription, DateTime eventDate, string eventLocation, string mor_ev , string locid)
@@ -150,57 +150,122 @@ namespace Dbex
             }
 
         }
-
+///!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
         public static string DeleteItem(string id, string eventname)
         {
-            if (id.Equals("") || eventname.Equals(""))
+            if (string.IsNullOrWhiteSpace(id) || string.IsNullOrWhiteSpace(eventname))
             {
-                return "Please fill all fields";
+                return "Please fill all fields.";
             }
+
+            int eventId;
             try
             {
-                Convert.ToInt32(id);
+                eventId = Convert.ToInt32(id);
             }
-            catch (Exception ex)
+            catch
             {
-                return "Id must be a number.";
+                return "Event ID must be a number.";
             }
 
-            string query = "SELECT eventname FROM eventtable WHERE id = @id";
-            conn.Open();
-            MySqlCommand cmd = new MySqlCommand(query, conn);
-            cmd.Parameters.AddWithValue("@id", id);
-            cmd.Parameters.AddWithValue("@eventname", eventname);
-            using (MySqlDataReader reader = cmd.ExecuteReader())
+            using (var conn = new MySqlConnection(connectionString))
             {
-                if (reader.Read())
+                conn.Open();
+
+                // Step 1: Check if the event exists and matches the name
+                string checkQuery = "SELECT eventname FROM eventtable WHERE id = @id";
+                using (var checkCmd = new MySqlCommand(checkQuery, conn))
                 {
-                    string dbename = reader.GetString("eventname");
-                    conn.Close();
-                    if (dbename.Equals(eventname))
-                    {
-                        ChangeLLocationStatus(id);
-                        conn.Open();
-                        string query1 = "DELETE FROM eventtable WHERE id = @id AND eventname = @eventname";
-                        MySqlCommand cmd1 = new MySqlCommand(query1, conn);
-                        cmd1.Parameters.AddWithValue("@id", id);
-                        cmd1.Parameters.AddWithValue("@eventname", eventname);
-                        cmd1.ExecuteNonQuery();
-                        conn.Close();
+                    checkCmd.Parameters.AddWithValue("@id", eventId);
 
-                        return "Event deleted successfully";
-                    }
-                    else
+                    using (var reader = checkCmd.ExecuteReader())
                     {
-                        return "Event id and name doesn't match";
+                        if (reader.Read())
+                        {
+                            string dbEventName = reader.GetString("eventname");
+                            if (!dbEventName.Equals(eventname, StringComparison.OrdinalIgnoreCase))
+                            {
+                                return "Event ID and name don't match.";
+                            }
+                        }
+                        else
+                        {
+                            return "Event not found.";
+                        }
                     }
                 }
+
+                // Step 2: Delete associated tickets
+                string deleteTicketsQuery = "DELETE FROM tickets WHERE EventID = @id";
+                using (var deleteTicketsCmd = new MySqlCommand(deleteTicketsQuery, conn))
+                {
+                    deleteTicketsCmd.Parameters.AddWithValue("@id", eventId);
+                    deleteTicketsCmd.ExecuteNonQuery();
+                }
+
+                // Step 3: Update location status if needed
+                ChangeLLocationStatus(eventId.ToString()); // assuming it takes string
+
+                // Step 4: Delete event itself
+                string deleteEventQuery = "DELETE FROM eventtable WHERE id = @id AND eventname = @eventname";
+                using (var deleteEventCmd = new MySqlCommand(deleteEventQuery, conn))
+                {
+                    deleteEventCmd.Parameters.AddWithValue("@id", eventId);
+                    deleteEventCmd.Parameters.AddWithValue("@eventname", eventname);
+                    deleteEventCmd.ExecuteNonQuery();
+                }
+
                 conn.Close();
-                return "Event not found";
+                return "Event and related tickets deleted successfully.";
             }
+            //if (id.Equals("") || eventname.Equals(""))
+            //{
+            //    return "Please fill all fields";
+            //}
+            //try
+            //{
+            //    Convert.ToInt32(id);
+            //}
+            //catch (Exception ex)
+            //{
+            //    return "Id must be a number.";
+            //}
+
+            //string query = "SELECT eventname FROM eventtable WHERE id = @id";
+            //conn.Open();
+            //MySqlCommand cmd = new MySqlCommand(query, conn);
+            //cmd.Parameters.AddWithValue("@id", id);
+            //cmd.Parameters.AddWithValue("@eventname", eventname);
+            //using (MySqlDataReader reader = cmd.ExecuteReader())
+            //{
+            //    if (reader.Read())
+            //    {
+            //        string dbename = reader.GetString("eventname");
+            //        conn.Close();
+            //        if (dbename.Equals(eventname))
+            //        {
+            //            ChangeLLocationStatus(id);
+            //            conn.Open();
+            //            string query1 = "DELETE FROM eventtable WHERE id = @id AND eventname = @eventname";
+            //            MySqlCommand cmd1 = new MySqlCommand(query1, conn);
+            //            cmd1.Parameters.AddWithValue("@id", id);
+            //            cmd1.Parameters.AddWithValue("@eventname", eventname);
+            //            cmd1.ExecuteNonQuery();
+            //            conn.Close();
+
+            //            return "Event deleted successfully";
+            //        }
+            //        else
+            //        {
+            //            return "Event id and name doesn't match";
+            //        }
+            //    }
+            //    conn.Close();
+            //    return "Event not found";
+            //}
 
         }
-
+        //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
         public static void ChangeLLocationStatus(string id)
         {
             //string connectionString = "server=localhost;uid=root;pwd=;database=test";

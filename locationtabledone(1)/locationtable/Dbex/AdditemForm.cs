@@ -20,20 +20,9 @@ namespace Dbex
 
         private void addevntbutton_Click(object sender, EventArgs e)
         {
-            //if (!AdminConClass.IsTimeAvailable(eventtimetextBox2.Text, locationaddidtextBox11.Text))
-            //{
-            //    MessageBox.Show("slot is already booked.") ;
-            //}
-            //eidtextBox.Clear();
-            //organizeridevtextBox1.Clear();
-            //enametextBox.Clear();
-            //edestextBox.Clear();
-            //eloctextBox.Clear();
-            //eventtimetextBox2.Clear();
-            //locationaddidtextBox11.Clear();
+            
 
             MessageBox.Show(EventconClass.AddEvent(eidtextBox.Text, organizeridevtextBox1.Text, enametextBox.Text, edestextBox.Text, edateTimePicker.Value, eloctextBox.Text, eventtimetextBox2.Text, locationaddidtextBox11.Text));
-            //AdminConClass.Setavailablity(eventtimetextBox2.Text, locationaddidtextBox11.Text);
             eidtextBox.Clear();
             organizeridevtextBox1.Clear();
             enametextBox.Clear();
@@ -41,6 +30,10 @@ namespace Dbex
             eloctextBox.Clear();
             eventtimetextBox2.Clear();
             locationaddidtextBox11.Clear();
+
+            Ticket_Organizer ticketOrganizer = new Ticket_Organizer();
+            ticketOrganizer.Show();
+            this.Hide();
 
         }
 

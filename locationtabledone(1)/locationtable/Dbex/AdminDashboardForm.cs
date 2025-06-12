@@ -30,5 +30,12 @@ namespace Dbex
             viewEventadmin.Show();
             this.Hide();
         }
+
+        private void linkLabel4_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Ticket_Admin ticketAdmin = new Ticket_Admin();
+            ticketAdmin.Show();
+            this.Hide();
+        }
     }
 }

@@ -40,5 +40,12 @@ namespace Dbex
             vieweventuserlistBox1.Items.AddRange(items.ToArray());
             MessageBox.Show($"Loaded {items.Count} items");
         }
+
+        private void bookticketbutton1_Click(object sender, EventArgs e)
+        {
+            Ticket_User tikuser = new Ticket_User();
+            tikuser.Show();
+            this.Hide();
+        }
     }
 }

@@ -11,7 +11,7 @@ namespace Dbex
 {
     internal class AdminConClass 
     {
-        static string connectionString = "server=localhost;uid=root;pwd=;database=test";
+        static string connectionString = "server=localhost;uid=root;pwd=;database=ticketdb";
         static MySqlConnection conn = new MySqlConnection(connectionString);
 
         public static string AddLoc(string name,string address,string ownername)

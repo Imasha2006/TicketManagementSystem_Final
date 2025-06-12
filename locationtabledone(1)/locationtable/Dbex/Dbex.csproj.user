@@ -14,19 +14,55 @@
     <Compile Update="AdminevviewForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Admin_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="DeleteEventForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="EventuserForm2.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ForgetpasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UserPaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\OrganizerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AdminDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="MenuForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Organizer.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="OrganizerMenuEventForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Roleselection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ticket-Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ticket-Organizer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ticket-User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="UserEventHomeForm3.cs">
