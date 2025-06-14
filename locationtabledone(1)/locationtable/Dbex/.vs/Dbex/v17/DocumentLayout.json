@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\adminconclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:adminconclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\addlocationform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:addlocationform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\addlocationform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:addlocationform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\eventconclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:eventconclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\deleteeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:deleteeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\deleteeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:deleteeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\organizermenueventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:organizermenueventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\organizermenueventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:organizermenueventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\eventuserform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:eventuserform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\eventuserform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:eventuserform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\usereventhomeform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:usereventhomeform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\usereventhomeform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:usereventhomeform3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\vieweventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:vieweventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\vieweventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:vieweventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\viewreviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:viewreviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\viewfeedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:viewfeedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\viewfeedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:viewfeedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\viewreviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:viewreviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\reviewconclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:reviewconclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\adminevviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:adminevviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\adminevviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:adminevviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\eventclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:eventclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\locationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:locationclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\feedbackclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:feedbackclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|c:\\users\\ushan\\onedrive\\desktop\\sdam_grp_repo\\locationtable\\dbex\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A294F3C-1978-486A-9C3F-7476EB117795}|Dbex.csproj|solutionrelative:menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventuserForm2.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\EventuserForm2.cs",
+              "RelativeDocumentMoniker": "EventuserForm2.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\EventuserForm2.cs",
+              "RelativeToolTip": "EventuserForm2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA9wCYAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:05:02.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserEventHomeForm3.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\UserEventHomeForm3.cs",
+              "RelativeDocumentMoniker": "UserEventHomeForm3.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\UserEventHomeForm3.cs",
+              "RelativeToolTip": "UserEventHomeForm3.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:02:13.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserEventHomeForm3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\UserEventHomeForm3.cs",
+              "RelativeDocumentMoniker": "UserEventHomeForm3.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\UserEventHomeForm3.cs [Design]",
+              "RelativeToolTip": "UserEventHomeForm3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T12:00:51.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventuserForm2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\EventuserForm2.cs",
+              "RelativeDocumentMoniker": "EventuserForm2.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\EventuserForm2.cs [Design]",
+              "RelativeToolTip": "EventuserForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T08:19:27.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:04:26.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminevviewForm.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdminevviewForm.cs",
+              "RelativeDocumentMoniker": "AdminevviewForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdminevviewForm.cs",
+              "RelativeToolTip": "AdminevviewForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:39:42.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminevviewForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdminevviewForm.cs",
+              "RelativeDocumentMoniker": "AdminevviewForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdminevviewForm.cs [Design]",
+              "RelativeToolTip": "AdminevviewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:37:51.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LocationClass.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\LocationClass.cs",
+              "RelativeDocumentMoniker": "LocationClass.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\LocationClass.cs",
+              "RelativeToolTip": "LocationClass.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:08:34.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddLocationForm2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AddLocationForm2.cs",
+              "RelativeDocumentMoniker": "AddLocationForm2.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AddLocationForm2.cs [Design]",
+              "RelativeToolTip": "AddLocationForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:54:13.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminConClass.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdminConClass.cs",
+              "RelativeDocumentMoniker": "AdminConClass.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdminConClass.cs",
+              "RelativeToolTip": "AdminConClass.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAuwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:47:23.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdminDashboardForm.cs",
+              "RelativeToolTip": "AdminDashboardForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:44:40.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAC4WAAAAAAAAAAAgwC0WAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-24T14:55:00.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "MenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\MenuForm.Designer.cs",
+              "RelativeToolTip": "MenuForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:53:31.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrganizerMenuEventForm.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\OrganizerMenuEventForm.cs",
+              "RelativeDocumentMoniker": "OrganizerMenuEventForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\OrganizerMenuEventForm.cs",
+              "RelativeToolTip": "OrganizerMenuEventForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAawBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:52:11.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ViewFeedbackForm.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewFeedbackForm.cs",
+              "RelativeDocumentMoniker": "ViewFeedbackForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewFeedbackForm.cs",
+              "RelativeToolTip": "ViewFeedbackForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIA9wCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:25:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FeedbackClass.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\FeedbackClass.cs",
+              "RelativeDocumentMoniker": "FeedbackClass.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\FeedbackClass.cs",
+              "RelativeToolTip": "FeedbackClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:38:31.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReviewConClass.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ReviewConClass.cs",
+              "RelativeDocumentMoniker": "ReviewConClass.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ReviewConClass.cs",
+              "RelativeToolTip": "ReviewConClass.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:21:04.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewReviewForm.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewReviewForm.cs",
+              "RelativeDocumentMoniker": "ViewReviewForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewReviewForm.cs",
+              "RelativeToolTip": "ViewReviewForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:08:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewEventForm.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewEventForm.cs",
+              "RelativeDocumentMoniker": "ViewEventForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewEventForm.cs",
+              "RelativeToolTip": "ViewEventForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA9wCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:54:21.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteEventForm.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\DeleteEventForm.cs",
+              "RelativeDocumentMoniker": "DeleteEventForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\DeleteEventForm.cs",
+              "RelativeToolTip": "DeleteEventForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:29:37.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdditemForm.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdditemForm.cs",
+              "RelativeDocumentMoniker": "AdditemForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdditemForm.cs",
+              "RelativeToolTip": "AdditemForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:09:01.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddLocationForm2.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AddLocationForm2.cs",
+              "RelativeDocumentMoniker": "AddLocationForm2.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AddLocationForm2.cs",
+              "RelativeToolTip": "AddLocationForm2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA3wB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:58:34.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\MenuForm.cs",
+              "RelativeToolTip": "MenuForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvx8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:01:05.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventconClass.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\EventconClass.cs",
+              "RelativeDocumentMoniker": "EventconClass.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\EventconClass.cs",
+              "RelativeToolTip": "EventconClass.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:48:15.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EventClass.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\EventClass.cs",
+              "RelativeDocumentMoniker": "EventClass.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\EventClass.cs",
+              "RelativeToolTip": "EventClass.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:48:00.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:16:48.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdminDashboardForm.cs [Design]",
+              "RelativeToolTip": "AdminDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:55:11.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrganizerMenuEventForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\OrganizerMenuEventForm.cs",
+              "RelativeDocumentMoniker": "OrganizerMenuEventForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\OrganizerMenuEventForm.cs [Design]",
+              "RelativeToolTip": "OrganizerMenuEventForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:47:28.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\MenuForm.cs [Design]",
+              "RelativeToolTip": "MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:51:47.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewReviewForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewReviewForm.cs",
+              "RelativeDocumentMoniker": "ViewReviewForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewReviewForm.cs [Design]",
+              "RelativeToolTip": "ViewReviewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:03:00.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViewFeedbackForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewFeedbackForm.cs",
+              "RelativeDocumentMoniker": "ViewFeedbackForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewFeedbackForm.cs [Design]",
+              "RelativeToolTip": "ViewFeedbackForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:22:06.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewEventForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewEventForm.cs",
+              "RelativeDocumentMoniker": "ViewEventForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\ViewEventForm.cs [Design]",
+              "RelativeToolTip": "ViewEventForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:53:17.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteEventForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\DeleteEventForm.cs",
+              "RelativeDocumentMoniker": "DeleteEventForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\DeleteEventForm.cs [Design]",
+              "RelativeToolTip": "DeleteEventForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:23:48.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdditemForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdditemForm.cs",
+              "RelativeDocumentMoniker": "AdditemForm.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\AdditemForm.cs [Design]",
+              "RelativeToolTip": "AdditemForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:02:09.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ushan\\OneDrive\\Desktop\\SDAM_GRP_Repo\\locationtable\\Dbex\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:00:28.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
